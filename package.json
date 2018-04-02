@@ -1,0 +1,15 @@
+{
+	"name": "authkeys",
+	"version": "1.0.0",
+	"description": "",
+	"main": "send_push.js",
+	"scripts": {
+		"start": "node send_push.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"apn": "^2.2.0"
+	}
+}
